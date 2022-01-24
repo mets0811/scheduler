@@ -1,4 +1,4 @@
-/*this styles the work-day-scheduler */
+/*style for scheduler */
 body {
     font-family: 'Open Sans', sans-serif;
     font-size: 16px;
@@ -15,7 +15,7 @@ body {
     width: 920px;
   }
   
-  /* here comes the jumbo-dumbo-tron */
+  /*jumbo-dumbo-tron */
   .jumbotron {
     text-align: center;
     background-color: transparent;
@@ -42,7 +42,7 @@ body {
     height: 80px;
     border-top: 1px solid white;;
   }
-  /* this hour is for the 9:00am-7:00pm area */
+  /* this hour is for the 9:00am-7:00pm */
   .hour {
     background-color: #ffffff;
     color: #000000;
@@ -67,7 +67,7 @@ body {
     color: white;
   }
   
-  /*this style is for the button area that saves the tasks */
+  /*button area that saves the tasks */
   .saveBtn {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
